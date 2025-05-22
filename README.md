@@ -1,11 +1,11 @@
 # JUNE-MD
 
-<img src="https://files.catbox.moe/cd42aj.jpg" height="90" width="300">
+<img src="" height="90" width="300">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ༄[ˢ]°[ˢᵘᵖʳᵉᵐᵉ ᴸᵒʳᵈ]°[s]༄
 <div class="repo" align="center">
 
 <a href ="#">
-<img src = "#"  width="300" height="200">
+<img src = "https://files.catbox.moe/cd42aj.jpg"  width="300" height="200">
 </img>
 
 <p align="center">
