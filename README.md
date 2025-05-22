@@ -6,7 +6,7 @@
 <div class="repo" align="center">
 
 <a href ="#">
-<img src = "https://files.catbox.moe/cd42aj.jpg"  width="300" height="100">
+<img src = "https://files.catbox.moe/cd42aj.jpg"  width="300" height="400">
 </img>
 
 <p align="center">
