@@ -13,6 +13,7 @@
 <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&linesJUNE-XD+XD+WHATSAPP+BOT+XD" alt="">
 
 ## 💫𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏💫
+
 **1. FORK THIS REPOSITORY**
 
 
@@ -43,7 +44,7 @@
 </a>
 </p>
 <p align="center">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/Peacemaker-md/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/Peacemaker-md/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY JUNE-XD BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="200" height="50"/>
   </a>
 </p>
   
