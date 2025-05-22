@@ -25,6 +25,29 @@
 
 **Get Session ID (WhatsApp Pair Code Login)**
 
+## TO LINK, GENERATE YOUR GENERATE SESSION_ID FROM THE BUTTON BELOW:
+
+<p align="center">
+<a href="htttp//pair link">
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
+</a>
+</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+
+ **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
+
+
+   
+
+</a>
+</p>
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Peacemaker-cyber/Peacemaker-md/tree/main?tab=readme-ov-file' target="_blank"> <img title="DEPLOY NEXUS-AI BOT" src="https://img.shields.io/badge/👻_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+  </a>
+</p>
+  
+
 
 
 
