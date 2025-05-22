@@ -1,6 +1,6 @@
 # JUNE-MD
 
-<img src="https://files.catbox.moe/yndl4u.jpg" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 𝐒𝐢𝐦𝐩𝐥𝐞 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 ༄[ˢ]°[ˢᵘᵖʳᵉᵐᵉ ᴸᵒʳᵈ]°[s]༄
 <div class="repo" align="center">
 
